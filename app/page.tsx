@@ -176,7 +176,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="/CV-Alexis-Marulanda.pdf"
+                  href="/CV_Alexis_Marulanda_Java_Backend.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="rounded-lg bg-blue-600 px-6 py-3 font-semibold text-white transition hover:bg-blue-700"
